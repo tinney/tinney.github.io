@@ -1,0 +1,12 @@
+.site-header {
+  text-align: center;
+  width: 100%;
+  border-bottom: 1px solid $grey-color-light;
+  padding-bottom: $spacing-unit/2;
+  margin-bottom: $spacing-unit;
+}
+
+.site--header__title {
+  font-size: 2rem;
+  &:hover, &:visited, &:active { color: $text-color; }
+}

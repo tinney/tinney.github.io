@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "Realius"
+role:  "Project Lead, Developer"
+start_date:   2007-01-01
+end_date:   2009-12-31
+categories: rails
+description: ""
+---
+
+<div class="post__slideshow">
+  <div class="post__slideshow__header">
+    <div class="post__slideshow__controls">
+      <span class="post__slideshow__control"></span>
+      <span class="post__slideshow__control"></span>
+      <span class="post__slideshow__control"></span>
+    </div>
+
+    <div class="post__slideshow__tab">Realius</div>
+  </div>
+  <div class="post__slideshow__container">
+    <img src="/assets/images/realius/2.png" />
+    <img src="/assets/images/realius/3.png" />
+    <img src="/assets/images/realius/4.png" />
+    <img src="/assets/images/realius/5.png" />
+  </div>
+</div>

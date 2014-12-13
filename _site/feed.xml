@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dustin Tinney's Portfolio</title>
+    <description>My software development and project lead work.
+</description>
+    <link>http://tinney.github.com/</link>
+    <atom:link href="http://tinney.github.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 13 Dec 2014 15:03:29 -0800</pubDate>
+    <lastBuildDate>Sat, 13 Dec 2014 15:03:29 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+      <item>
+        <title>InQwizIT - Ottawa Area Schools</title>
+        <description>&lt;div class=&quot;post__slideshow&quot;&gt;
+&lt;div class=&quot;post__slideshow__header&quot;&gt;
+&lt;div class=&quot;post__slideshow__controls&quot;&gt;
+&lt;span class=&quot;post__slideshow__control&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;post__slideshow__control&quot;&gt;&lt;/span&gt;
+&lt;span class=&quot;post__slideshow__control&quot;&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post__slideshow__tab&quot;&gt;Catalog Choice&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;post__slideshow__container&quot;&gt;
+&lt;img src=&quot;/assets/images/oaisd/1.png&quot; /&gt;
+&lt;img src=&quot;/assets/images/oaisd/2.png&quot; /&gt;
+&lt;img src=&quot;/assets/images/oaisd/3.png&quot; /&gt;
+&lt;img src=&quot;/assets/images/oaisd/4.png&quot; /&gt;
+&lt;img src=&quot;/assets/images/oaisd/5.png&quot; /&gt;
+&lt;img src=&quot;/assets/images/oaisd/6.png&quot; /&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 01 Jan 2012 00:00:00 -0800</pubDate>
+        <link>http://tinney.github.com/rails/2012/01/01/oaisd.html</link>
+        <guid isPermaLink="true">http://tinney.github.com/rails/2012/01/01/oaisd.html</guid>
+        
+        
+        <category>rails</category>
+        
+      </item>
+    
+      <item>
+        <title>Catalog Choice</title>
+        <description>&lt;div class=&quot;post__slideshow&quot;&gt;
+  &lt;div class=&quot;post__slideshow__header&quot;&gt;
+    &lt;div class=&quot;post__slideshow__controls&quot;&gt;
+      &lt;span class=&quot;post__slideshow__control&quot;&gt;&lt;/span&gt;
+      &lt;span class=&quot;post__slideshow__control&quot;&gt;&lt;/span&gt;
+      &lt;span class=&quot;post__slideshow__control&quot;&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;post__slideshow__tab&quot;&gt;Catalog Choice&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;post__slideshow__container&quot;&gt;
+    &lt;img src=&quot;/assets/images/catalog_choice/2.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/catalog_choice/3.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/catalog_choice/4.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Thu, 01 Jan 2009 00:00:00 -0800</pubDate>
+        <link>http://tinney.github.com/rails/2009/01/01/catalog-choice.html</link>
+        <guid isPermaLink="true">http://tinney.github.com/rails/2009/01/01/catalog-choice.html</guid>
+        
+        
+        <category>rails</category>
+        
+      </item>
+    
+      <item>
+        <title>Realius</title>
+        <description>&lt;div class=&quot;post__slideshow&quot;&gt;
+  &lt;div class=&quot;post__slideshow__header&quot;&gt;
+    &lt;div class=&quot;post__slideshow__controls&quot;&gt;
+      &lt;span class=&quot;post__slideshow__control&quot;&gt;&lt;/span&gt;
+      &lt;span class=&quot;post__slideshow__control&quot;&gt;&lt;/span&gt;
+      &lt;span class=&quot;post__slideshow__control&quot;&gt;&lt;/span&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&quot;post__slideshow__tab&quot;&gt;Realius&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;post__slideshow__container&quot;&gt;
+    &lt;img src=&quot;/assets/images/realius/2.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/realius/3.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/realius/4.png&quot; /&gt;
+    &lt;img src=&quot;/assets/images/realius/5.png&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 01 Jan 2007 00:00:00 -0800</pubDate>
+        <link>http://tinney.github.com/rails/2007/01/01/realius.html</link>
+        <guid isPermaLink="true">http://tinney.github.com/rails/2007/01/01/realius.html</guid>
+        
+        
+        <category>rails</category>
+        
+      </item>
+    
+  </channel>
+</rss>

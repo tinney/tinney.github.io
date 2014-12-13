@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "InQwizIT - Ottawa Area Schools"
+role:  "Project Lead, Developer"
+start_date:   2012-01-01
+end_date:   2013-01-01
+categories: rails
+description: "Online assessment engine for creating, deliverying and reporting on student assessments."
+---
+
+<div class="post__slideshow">
+<div class="post__slideshow__header">
+<div class="post__slideshow__controls">
+<span class="post__slideshow__control"></span>
+<span class="post__slideshow__control"></span>
+<span class="post__slideshow__control"></span>
+</div>
+
+<div class="post__slideshow__tab">Catalog Choice</div>
+</div>
+<div class="post__slideshow__container">
+<img src="/assets/images/oaisd/1.png" />
+<img src="/assets/images/oaisd/2.png" />
+<img src="/assets/images/oaisd/3.png" />
+<img src="/assets/images/oaisd/4.png" />
+<img src="/assets/images/oaisd/5.png" />
+<img src="/assets/images/oaisd/6.png" />
+</div>
+</div>

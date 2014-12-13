@@ -1,0 +1,12 @@
+# Site settings
+title: Dustin Tinney's Portfolio
+email: tinney@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  My software development and project lead work.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tinney.github.com" # the base hostname & protocol for your site
+twitter_username: dustintinney
+github_username:  tinney
+
+# Build settings
+markdown: kramdown
