@@ -1,7 +1,2 @@
-ardi
+Dustin Tinney's Portfolio
 ====
-
-
-# Ideas
-
-Scroll over image zoom in
